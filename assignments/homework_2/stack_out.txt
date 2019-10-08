@@ -1,0 +1,10 @@
+Cykelle Semper 
+Homework 2
+Tuesday, 8th 2019
+
+
+The current stack size is: 19
+
+The max size of the stack was: 20
+
+The remaining items in the stack: 69  776  196  93  42  1  2  83  1711  93  41  2  3  241  43  49  14  4  5  
